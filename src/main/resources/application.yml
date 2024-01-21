@@ -1,10 +1,10 @@
 #spring:
 #  datasource:
-#    username: root
-#    password: 12345678
-#    url: jdbc:mysql://localhost:3306
-#    driver-class-name: com.mysql.cj.jdbc.Driver
+#    username:
+#    password:
+#    url:
+#    driver-class-name:
 #  jpa:
-#    show-sql: true
+#    show-sql:
 #    hibernate:
-#      ddl-auto: update
+#      ddl-auto:
